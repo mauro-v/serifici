@@ -1,17 +1,8 @@
-
-/404
-/about
-/archive
-/atom.xml
-/blog
-/categories
-/
-/landing
-/pages
-/rss.xml
-/sitemap.txt
-/tags
-
-/lessons/2017/03/20/make-your-jekyll-website-amazing
-/lessons/2017/02/15/syntax-highlight-example
-/lessons/2017/01/17/testing-locally
+---
+# Remember to set production_url in your _config.yml file!
+title : Sitemap
+---
+{% for page in site.pages %}
+{{site.production_url}}{{ page.url }}{% endfor %}
+{% for post in site.posts %}
+{{site.production_url}}{{ post.url }}{% endfor %}
