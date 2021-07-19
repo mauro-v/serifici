@@ -1,0 +1,17 @@
+
+/404
+/about
+/archive
+/atom.xml
+/blog
+/categories
+/
+/landing
+/pages
+/rss.xml
+/sitemap.txt
+/tags
+
+/lessons/2017/03/20/make-your-jekyll-website-amazing
+/lessons/2017/02/15/syntax-highlight-example
+/lessons/2017/01/17/testing-locally
