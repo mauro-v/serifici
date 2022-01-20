@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 #https://mauro-v.github.io/serifici
 url: https://premiertv.net
 #/mauro-v.github.io/serifici
-baseurl: "premiertv.net"
+baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
