@@ -341,7 +341,7 @@
 
 
 }
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 600px) and (orientation: portrait) {
     /* For tablets: */
     
     /* Style for our header texts
